@@ -84,8 +84,8 @@
         <h1>VIP AI Prompts & Productivity Toolkit</h1>
         <p>Get immediate access to the ultimate prompt pack for ChatGPT, Midjourney, and content creation (PDF Format).</p>
         
-        <!-- SEU LINK DO SHRINKME CONFIGURADO ABAIXO -->
-        <a href="https://shrinkme.click/qan3pG" class="download-btn" target="_blank">
+        <!-- LINK DO SHRINKME CORRIGIDO -->
+        <a href="https://shrinkme.click/qan3pG" class="download-btn" target="_blank" rel="noopener noreferrer">
             DOWNLOAD PDF NOW
         </a>
 
